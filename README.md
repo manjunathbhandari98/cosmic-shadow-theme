@@ -17,9 +17,9 @@ With deep cosmic tones, subtle highlights, and balanced contrasts, this theme ma
 ## 📸 Screenshots
 
 ### Editor
+<img width="1280" height="720" alt="Screenshot-1" src="https://github.com/user-attachments/assets/464d8c10-0dba-431b-bf50-4500d9164bfb" />
+<img width="1280" height="720" alt="Screenshot-2" src="https://github.com/user-attachments/assets/ea415169-4c0c-4e29-bd27-b3738e6bbfea" />
 
-![Cosmic Shadow](./images/screenshot-1.png)
-![Nebula Void](./images/screenshot-2.png)
 
 ## ⚡ Installation
 
