@@ -18,8 +18,8 @@ With deep cosmic tones, subtle highlights, and balanced contrasts, this theme ma
 
 ### Editor
 
----<img width="1366" height="674" alt="Screenshot 2025-09-16 161359" src="https://github.com/user-attachments/assets/4fc7e2ba-d42d-4474-8c50-08be9caa9bf5" />
-
+![Cosmic Shadow](./images/screenshot-1.png)
+![Nebula Void](./images/screenshot-2.png)
 
 ## ⚡ Installation
 
@@ -27,4 +27,3 @@ With deep cosmic tones, subtle highlights, and balanced contrasts, this theme ma
 2. Search for `Cosmic Shadow Dark`
 3. Click **Install**
 4. Press `Ctrl+K Ctrl+T` and select **Cosmic Shadow Dark**
-

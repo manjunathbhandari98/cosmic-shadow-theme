@@ -27,9 +27,26 @@
         "label": "Cosmic Shadow Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-color-theme.json"
+      },
+      {
+        "label": "Nebula Void Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula-void-dark.json"
       }
     ]
   },
   "icon": "icon.png",
-  "license": "MIT"
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "screenshots": [
+    {
+      "path": "images/Screenshot-1.png"
+    },
+    {
+      "path": "images/Screenshot-2.png"
+    }
+  ]
 }
