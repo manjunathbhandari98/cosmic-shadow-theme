@@ -10,11 +10,11 @@
   "categories": [
     "Themes"
   ],
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/manjunathbhandari98/cosmic-shadow-theme"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manjunathbhandari98/cosmic-shadow-theme"
   },
-  "keywords":[
+  "keywords": [
     "dark theme",
     "theme",
     "best theme",
@@ -29,5 +29,7 @@
         "path": "./themes/Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png",
+  "license": "MIT"
 }
