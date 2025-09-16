@@ -3,16 +3,28 @@
   "displayName": "Cosmic Shadow",
   "description": "Cosmic Shadow: a galaxy-inspired dark theme with soft bluish-gray tones and amber accents",
   "version": "0.0.1",
+  "publisher": "ManjunathBhandari",
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/manjunathbhandari98/cosmic-shadow-theme"
+  },
+  "keywords":[
+    "dark theme",
+    "theme",
+    "best theme",
+    "cosmic shadow theme",
+    "themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Dark",
+        "label": "Cosmic Shadow Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-color-theme.json"
       }
